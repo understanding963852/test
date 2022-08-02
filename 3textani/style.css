@@ -21,7 +21,7 @@ section .scroll{display: flex;
 }
 section .scroll div{background: #fff;
 white-space: nowrap; font-size: 4em; 
-/* em->16px  4em-> 16*4px */
+/* em->16px  4em-> 16*4px  수정했어요*/
 animation:animate1 40s linear infinite ;
 }
 section .scroll div:nth-child(2){
